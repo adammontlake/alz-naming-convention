@@ -15,7 +15,7 @@ For example:
 ## Example ussage
 ```hcl
 module "resource_group_name" {
-  source          = "git::https://github.com/microsoft/PDC/tree/main/IaC/Modules/naming_convention"
+  source          = "git::https://github.com/adammontlake/alz-naming-convention/naming_convention"
   service_name    = "shared_resources"
   environment     = "production"
   type            = "resource_group"
