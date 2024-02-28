@@ -1,0 +1,4 @@
+type            = "express_route_peering"
+erp_type        = "AzurePrivatePeering"
+er_circuit_name = "data_in"
+environment     = "production"

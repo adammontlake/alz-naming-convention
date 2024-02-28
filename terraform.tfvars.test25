@@ -1,0 +1,4 @@
+type            = "express_route_peering_connection"
+erp_name        = "data-in"
+er_gateway_name = "connectivity-ER-dp"
+environment     = "production"
